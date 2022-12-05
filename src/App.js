@@ -1,4 +1,5 @@
 import './App.css';
+import Test from './components/TestComponent/Test';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           </a>
         </p>
       </header>
+      <Test />
     </div>
   );
 }
